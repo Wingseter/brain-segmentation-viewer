@@ -116,4 +116,5 @@
 *.rar lfs
 *.tar lfs
 *.unity lfs
+*.pdf lfs
 
